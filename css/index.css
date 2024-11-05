@@ -1,24 +1,12 @@
-header{
-    background-color: white;
+body{
+    background-color: rgb(56, 56, 56); 
+    max-height: 600px;
     padding: 0px;
     margin: 0px;
 }
 
-.dragonDbz{
-    display: flex;
-    justify-content: center;
-    max-width: 135px;
-}
-
-.gitIcon{ 
-    display: flex;
-    align-items: flex-end;
-    max-width: 50px;
-}
-
-body{
-    background-color: rgb(56, 56, 56); 
-    max-height: 600px;
+header{
+    background-color: white;
     padding: 0px;
     margin: 0px;
 }
@@ -42,9 +30,12 @@ body{
     color: black;
 }
 
-main{
-    align-items: center;
+.dragonDbz{
+    display: flex;
+    justify-content: center;
+    max-width: 135px;
 }
+
 
 .allItems{
     display: flex;
@@ -68,4 +59,10 @@ footer{
     background-color: white;
     height: 137px;
     align-items: center;
+}
+
+.gitIcon{ 
+    display: flex;
+    align-items: flex-end;
+    max-width: 50px;
 }
