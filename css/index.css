@@ -1,0 +1,71 @@
+header{
+    background-color: white;
+    padding: 0px;
+    margin: 0px;
+}
+
+.dragonDbz{
+    display: flex;
+    justify-content: center;
+    max-width: 135px;
+}
+
+.gitIcon{ 
+    display: flex;
+    align-items: flex-end;
+    max-width: 50px;
+}
+
+body{
+    background-color: rgb(56, 56, 56); 
+    max-height: 600px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.allLinks{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    font-size: 30px;
+    font-family: fantasy;
+    a:link, a:visited {
+        text-decoration: none
+        }
+    a:hover {
+        text-decoration: underline;
+        color: rgb(255, 132, 0)
+        }
+    a:active {
+        text-decoration: none
+        }
+    color: black;
+}
+
+main{
+    align-items: center;
+}
+
+.allItems{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 60px;
+    font-family: fantasy;
+}
+
+.dbzLogo{
+    max-width: 780px;
+}
+
+.text{
+    color: orange;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    height: 137px;
+    align-items: center;
+}

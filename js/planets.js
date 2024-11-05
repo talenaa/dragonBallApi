@@ -28,7 +28,7 @@ function createPlanetsCard ({ name, isDestroyed, image}){
 }
 
 async function displayPlanets() {
-    const planetsSection = document.getElementById('planetSection');
+    const planetsSection = document.getElementById('planetsSection');
     const planetsData = await fetchPlanetsJson();
 
     if (planetsData && planetsData.items){
