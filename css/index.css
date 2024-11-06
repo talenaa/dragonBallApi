@@ -1,12 +1,12 @@
 body{
-    background-color: rgb(56, 56, 56); 
+    background-color: rgb(97, 97, 97); 
     max-height: 600px;
     padding: 0px;
     margin: 0px;
 }
 
 header{
-    background-color: white;
+    background-color: rgb(56, 56, 56);
     padding: 0px;
     margin: 0px;
 }
@@ -18,16 +18,15 @@ header{
     font-size: 30px;
     font-family: fantasy;
     a:link, a:visited {
-        text-decoration: none
+        text-decoration: none;
         }
     a:hover {
         text-decoration: underline;
         color: rgb(255, 132, 0)
         }
     a:active {
-        text-decoration: none
+        text-decoration: none;
         }
-    color: black;
 }
 
 .dragonDbz{
@@ -56,7 +55,7 @@ header{
 footer{
     display: flex;
     justify-content: center;
-    background-color: white;
+    background-color: rgb(56, 56, 56);
     height: 137px;
     align-items: center;
 }

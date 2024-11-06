@@ -1,13 +1,13 @@
 body{
     padding: 0px;
     margin: 0px;
- }
+    background-color: yellow;
+}
 
 header{
-    background-color: white;
+    background-color: rgb(56, 56, 56);
     padding: 0px;
     margin: 0px;
-    max-height: 200px;
 }
 
 main{
@@ -15,25 +15,24 @@ main{
 }
 
 .charactersHeader{
-    max-width: 170px;
+    max-width: 130px;
 }
 
 .allLinks{
     display: flex;
     justify-content: center;
-    gap: 20px;
+    gap: 30px;
     font-size: 30px;
     font-family: fantasy;
-    color: black;
     a:link, a:visited {
-        text-decoration: none
+        text-decoration: none;
         }
     a:hover {
         text-decoration: underline;
         color: rgb(255, 132, 0)
         }
     a:active {
-        text-decoration: none
+        text-decoration: none;
         }
 }
 
@@ -41,9 +40,10 @@ main{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
-    margin: 18px;
     row-gap: 20px;
-    background-color: rgb(56, 56, 56);
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: rgb(97, 97, 97);
     border-radius: 20px;
 }
 
@@ -51,25 +51,24 @@ main{
     display: flex;
     justify-content: space-evenly;
     border-radius: 20px;
-    margin: 15px;   
+    margin: 15px; 
+    background-color: yellow;  
 }
 
 .cardImgTop{
     display: flex;
-    min-width: 150px;
-    max-width:250px;
-    min-height: 100px;
-    max-height: 300px;
-    align-self: center;
-    margin: 10px;   
+    min-width: 170px;
+    max-width:230px;
+    min-height: 130px;
+    max-height: 330px;
+    align-self: center;   
 }
 
 .cardBody{
     display: flex;
     flex-flow: wrap column;
-    margin-left: 5px;
-    margin-right: 5px;
     font-family: fantasy;
+    font-size: 23px;
     background-color: yellow;
     border-radius: 10px;
 }
@@ -105,6 +104,7 @@ main{
 footer{
     display: flex;
     justify-content: center;
+    background-color: rgb(56, 56, 56);
 }
 
 .gitIcon{ 
