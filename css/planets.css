@@ -1,43 +1,99 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
 header{
-    background-color: white;
+    background-color: rgb(56, 56, 56);
+    padding: 0px;
+    margin: 0px;
+}
+
+.dbzPlanet{
+    max-width: 170px;
+}
+
+.allLinks{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    font-size: 30px;
+    font-family: fantasy;
+    a:link, a:visited {
+        text-decoration: none;
+        }
+    a:hover {
+        text-decoration: underline;
+        color: rgb(255, 132, 0)
+        }
+    a:active {
+        text-decoration: none;
+        }
+}
+
+main{
+    background-color: yellow;
 }
 
 .planetsCard{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
-    margin: 15px;
-    padding: 15px;
-    row-gap: 25px;
-    column-gap: 7px;
-    background-color: rgb(255, 145, 0);
+    row-gap: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: rgb(97, 97, 97);
     border-radius: 20px;
 }
 
 .cards{
     display: flex;
     justify-content: space-evenly;
-    background-color:rgb(255, 145, 0);
     border-radius: 20px;
-    margin: 15px;   
+    margin: 15px; 
+    background-color: yellow; 
 }
 
 .cardImgTop{
-    display: flex;
-    background-color: aqua;
-    min-width: 150px;
-    max-width:250px;
-    min-height: 100px;
-    max-height: 300px;
+    min-width: 170px;
+    max-width:230px;
+    min-height: 130px;
+    max-height: 330px;
     align-self: center;
-    margin: 5px;   
+    margin: 17px;
 }
 
 .cardBody{
     display: flex;
     flex-flow: wrap column;
-    margin-left: 5px;
-    margin-right: 5px;
-    background-color: rgb(255, 89, 89);
     font-family: fantasy;
+    font-size: 23px;
+    background-color: yellow;
+    border-radius: 10px;
+}
+
+.allList{
+    background-color: rgba(251, 255, 43, 0.9);
+    margin: 10px;
+    border-radius: 15px;
+}
+
+.listInfo{
+    background-color: rgba(240, 9, 9, 0.66);
+    font-family: fantasy;
+    margin: 7px;
+    border-radius: 15px;
+    font-size: 18px;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(56, 56, 56);
+}
+
+.gitIcon{ 
+    display: flex;
+    justify-content: center;
+    max-width: 50px;
 }
