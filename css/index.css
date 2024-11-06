@@ -56,12 +56,10 @@ footer{
     display: flex;
     justify-content: center;
     background-color: rgb(56, 56, 56);
-    height: 137px;
+    height: 143px;
     align-items: center;
 }
 
 .gitIcon{ 
-    display: flex;
-    align-items: flex-end;
     max-width: 50px;
 }

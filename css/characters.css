@@ -1,7 +1,6 @@
 body{
     padding: 0px;
     margin: 0px;
-    background-color: yellow;
 }
 
 header{
@@ -56,7 +55,6 @@ main{
 }
 
 .cardImgTop{
-    display: flex;
     min-width: 170px;
     max-width:230px;
     min-height: 130px;
@@ -81,14 +79,10 @@ main{
     font-size: 19px;
     margin: 10px;
     border-radius: 10px;
-    color: black;
 }
 
 .allList{
     background-color: rgba(251, 255, 43, 0.9);
-    display: grid;
-    grid-template-rows: 1fr 1fr 1fr ;
-    grid-template-columns: 1fr;
     margin: 10px;
     border-radius: 15px;
 }
@@ -98,7 +92,7 @@ main{
     font-family: fantasy;
     margin: 7px;
     border-radius: 15px;
-    font-size: 13px;
+    font-size: 18px;
 }
 
 footer{
