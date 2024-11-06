@@ -17,17 +17,17 @@ async function fetchCharactersJson(){
 
 function createCharactersCard ({ name, ki, maxKi, gender, affiliation, race, image}){
     return `
-         <div class="card" style="width: 200px;">
-            <img src="${image}" class="card-img-top" alt="...">
-            <div class="card-body">
-                <h5 class="card-title">${name}</h5>
-                <p class="card-text">${race} - ${gender}</p>
+         <div class="cards">
+            <img src="${image}" class="cardImgTop" alt="dbz characters">
+            <div class="cardBody">
+                <p class="cardName">${name}</p>
+                <p class="cardText">${race} - ${gender}</p>
             </div>
-            <ul class="list-group list-group-flush">
-                <li class="list-group-item">${ki}</li>
-                <li class="list-group-item">${maxKi}</li>
-                <li class="list-group-item">${affiliation}</li>
-            </ul>
+            <div class="allList">
+                <p class="listInfo">Base Ki: ${ki}</p>
+                <p class="listInfo">Max Ki: ${maxKi}</p>
+                <p class="listInfo">Affiliation: ${affiliation}</p>
+            </div>
         </div>
 `;
 }
