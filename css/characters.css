@@ -60,7 +60,10 @@ main{
     min-width: 110px;
     max-width: 390px;
     max-height: 300px;
-    align-self: center;   
+    align-self: center;
+    background-color: rgba(104, 104, 104, 0.884);
+    border-radius: 20px; 
+    margin: 10px; 
 }
 
 .cardBody{
