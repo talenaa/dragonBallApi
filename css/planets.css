@@ -61,6 +61,7 @@ main{
     max-height: 330px;
     align-self: center;
     margin: 17px;
+    border-radius: 20px;
 }
 
 .cardBody{
