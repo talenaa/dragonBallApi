@@ -24,7 +24,7 @@ header{
         }
     a:hover {
         text-decoration: underline;
-        color: rgb(255, 132, 0)
+        color: red;
         }
     a:active {
         text-decoration: none;
