@@ -58,6 +58,7 @@ footer{
     display: flex;
     justify-content: center;
     align-items: center;
+    height: 200px;
     background-color: rgba(236, 240, 11, 0.967);
 }
 

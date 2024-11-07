@@ -15,14 +15,13 @@ async function fetchPlanetsJson(){
    
 }
 
-function createPlanetsCard ({name, image, description,}){
+function createPlanetsCard ({name, image,}){
   return `
        <div class="cards">
           <img src="${image}" class="cardImgTop" alt="dbz planets">
           <div class="cardBody"></div>
             <div class= "allList">
                 <p class="listInfo">${name}</p>
-                <p class="listInfo">${description}</p>
             </div>
         </div>
 `;
