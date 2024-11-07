@@ -1,6 +1,5 @@
 body{
     background-color: rgb(97, 97, 97); 
-    max-height: 600px;
     padding: 0px;
     margin: 0px;
 }
@@ -30,8 +29,6 @@ header{
 }
 
 .dragonDbz{
-    display: flex;
-    justify-content: center;
     max-width: 135px;
 }
 
@@ -40,24 +37,25 @@ header{
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 60px;
+    font-size: 40px;
     font-family: fantasy;
 }
 
 .dbzLogo{
-    max-width: 780px;
+    max-width: 650px;
 }
 
 .text{
-    color: orange;
+    display: flex;
+    justify-content: left;
+    color: yellow;
 }
 
 footer{
     display: flex;
     justify-content: center;
-    background-color: rgb(56, 56, 56);
-    height: 143px;
     align-items: center;
+    background-color: rgb(56, 56, 56);
 }
 
 .gitIcon{ 
