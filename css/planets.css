@@ -57,12 +57,11 @@ main{
 }    
 
 .cardImgTop{
-    min-width: 190px;
-    max-width: 260px;
-    max-height: 300px;
+    min-width: 300px;
+    max-width: 200px;
+    max-height: 200px;
     border-radius: 20px;
-    margin-left: 20px;
-    margin-right: 20px;
+    margin: 12px;
     align-self: center;
 }
 
@@ -87,7 +86,7 @@ main{
     background-color: rgba(166, 166, 32, 0.9);
     font-family: fantasy;
     margin: 7px;
-    border-radius: 15px;
+    border-radius: 5px;
     font-size: 18px;
 }
 
