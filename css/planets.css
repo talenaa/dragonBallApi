@@ -4,7 +4,7 @@ body{
 }
 
 header{
-    background-color: rgb(56, 56, 56);
+    background-color: rgba(236, 240, 11, 0.967);
     padding: 0px;
     margin: 0px;
 }
@@ -32,7 +32,7 @@ header{
 }
 
 main{
-    background-color: yellow;
+    background-color: rgb(57, 57, 57);
 }
 
 .planetsCard{
@@ -40,28 +40,30 @@ main{
     flex-wrap: wrap;
     justify-content: space-evenly;
     row-gap: 20px;
+    margin-top: 10px;
     margin-left: 10px;
     margin-right: 10px;
-    background-color: rgb(97, 97, 97);
+    background-color: rgb(57, 57, 57);
     border-radius: 20px;
 }
 
 .cards{
     display: flex;
     justify-content: space-evenly;
+    max-width: 490px;
     border-radius: 20px;
     margin: 15px; 
-    background-color: yellow; 
-}
+    background-color: rgb(34, 34, 34);
+}    
 
 .cardImgTop{
-    min-width: 170px;
-    max-width:230px;
-    min-height: 130px;
-    max-height: 330px;
-    align-self: center;
-    margin: 17px;
+    min-width: 190px;
+    max-width: 260px;
+    max-height: 300px;
     border-radius: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    align-self: center;
 }
 
 .cardBody{
@@ -69,18 +71,20 @@ main{
     flex-flow: wrap column;
     font-family: fantasy;
     font-size: 23px;
-    background-color: yellow;
-    border-radius: 10px;
+    color: rgb(125, 8, 8);
+    background-color: rgb(34, 34, 34);
+    border-radius: 20px;
 }
 
 .allList{
-    background-color: rgba(251, 255, 43, 0.9);
+    background-color: rgb(34, 34, 34);
     margin: 10px;
     border-radius: 15px;
 }
 
 .listInfo{
-    background-color: rgba(240, 9, 9, 0.66);
+    color: rgb(125, 8, 8);
+    background-color: rgba(166, 166, 32, 0.9);
     font-family: fantasy;
     margin: 7px;
     border-radius: 15px;
@@ -90,7 +94,8 @@ main{
 footer{
     display: flex;
     justify-content: center;
-    background-color: rgb(56, 56, 56);
+    margin-top: 10px;
+    background-color: rgba(236, 240, 11, 0.967);
 }
 
 .gitIcon{ 
