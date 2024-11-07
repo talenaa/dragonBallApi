@@ -29,26 +29,29 @@ header{
 }
 
 .dragonDbz{
+    display: flex;
     max-width: 135px;
 }
-
 
 .allItems{
     display: flex;
     justify-content: center;
-    align-items: center;
-    font-size: 40px;
-    font-family: fantasy;
+    align-items: center;  
+    flex-direction: column;
 }
 
 .dbzLogo{
-    max-width: 650px;
+    display: flex;
+    justify-content: center;
+    max-width: 470px;
 }
 
 .text{
     display: flex;
-    justify-content: left;
+    justify-content: center;
     color: yellow;
+    font-size: 40px;
+    font-family: fantasy;
 }
 
 footer{
