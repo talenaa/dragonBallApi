@@ -40,6 +40,11 @@ In html I have links to guide through the content and images to make it more goo
 ![Screenshot 2024-11-08 091121](https://github.com/user-attachments/assets/ad30c693-e85a-4e6b-b643-dac067271353)
 
 
+**Tools**
+-
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/github-100000?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='css3' src='https://img.shields.io/badge/css-100000?style=for-the-badge&logo=css3&logoColor=2027C7&labelColor=FFFAFA&color=CAAEAE'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='html5' src='https://img.shields.io/badge/css-100000?style=for-the-badge&logo=html5&logoColor=E70707&labelColor=FFFFFF&color=F47700'/></a>
 
 
 
