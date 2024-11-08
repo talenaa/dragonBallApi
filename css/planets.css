@@ -40,7 +40,6 @@ main{
     flex-wrap: wrap;
     justify-content: space-evenly;
     row-gap: 20px;
-    margin-top: 10px;
     margin-left: 10px;
     margin-right: 10px;
     background-color: rgb(57, 57, 57);
@@ -52,7 +51,7 @@ main{
     justify-content: space-evenly;
     max-width: 490px;
     border-radius: 20px;
-    margin: 15px; 
+    margin: 20px; 
     background-color: rgb(34, 34, 34);
 }    
 
@@ -61,7 +60,7 @@ main{
     max-width: 200px;
     max-height: 200px;
     border-radius: 20px;
-    margin: 12px;
+    margin: 10px;
     align-self: center;
 }
 
@@ -85,15 +84,14 @@ main{
     color: rgb(125, 8, 8);
     background-color: rgba(166, 166, 32, 0.9);
     font-family: fantasy;
-    margin: 7px;
-    border-radius: 5px;
+    margin: 5px;
+    border-radius: 10px;
     font-size: 18px;
 }
 
 footer{
     display: flex;
     justify-content: center;
-    margin-top: 10px;
     background-color: rgba(236, 240, 11, 0.967);
 }
 
