@@ -107,8 +107,6 @@ footer{
     background-color: rgba(236, 240, 11, 0.967);
 }
 
-.gitIcon{ 
-    display: flex;
-    justify-content: center;
-    max-width: 50px;
+.logoFooter{
+    max-width: 386px;
 }

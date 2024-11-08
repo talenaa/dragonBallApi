@@ -45,6 +45,13 @@ main{
     align-items: center;  
 }
 
+.kidGoku{
+    max-width: 120px;
+    max-height: 230px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
 .dbzLogo{
     display: flex;
     justify-content: center;
@@ -52,13 +59,6 @@ main{
     max-width: 330px;
     margin-bottom: 30px;
     margin-top: 30px;
-}
-
-.kidGoku{
-    max-width: 120px;
-    max-height: 230px;
-    margin-top: 30px;
-    margin-bottom: 30px;
 }
 
 footer{
