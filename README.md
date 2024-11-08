@@ -25,7 +25,25 @@ In JavaScript I created my own classes and removed the bootstrap so I could edit
 
 In html I have links to guide through the content and images to make it more good looking.
 
-And for the Json I used postman.
+**Overview**
+-
+**Home page:**
+
+![Screenshot 2024-11-08 091212](https://github.com/user-attachments/assets/b7190a06-d79b-473f-97be-e4ff3104c1f4)
+
+**Characters page:**
+
+![Screenshot 2024-11-08 091138](https://github.com/user-attachments/assets/5f0fdc1b-d77a-4212-9041-9fe9b9bd9d74)
+
+**Planets page:**
+
+![Screenshot 2024-11-08 091121](https://github.com/user-attachments/assets/ad30c693-e85a-4e6b-b643-dac067271353)
+
+
+
+
+
+
 
 
 
