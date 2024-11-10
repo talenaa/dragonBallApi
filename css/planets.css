@@ -6,8 +6,11 @@ body{
 }
 
 header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
     background-color: rgb(145, 147, 13);
-    padding: 0px;
     margin: 0px;
 }
 
