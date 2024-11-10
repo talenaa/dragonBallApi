@@ -1,4 +1,6 @@
 body{
+    display: flex;
+    flex-flow: column;
     padding: 0px;
     margin: 0px;
 }
@@ -59,7 +61,7 @@ main{
 .cardImgTop{
     display: flex;
     flex-wrap: wrap;
-    min-width: 50px;
+    min-width: none;
     max-width: 280px;
     max-height: 280px;
     align-self: center;
