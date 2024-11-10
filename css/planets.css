@@ -6,7 +6,7 @@ body{
 }
 
 header{
-    background-color: rgba(236, 240, 11, 0.967);
+    background-color: rgb(145, 147, 13);
     padding: 0px;
     margin: 0px;
 }
@@ -94,7 +94,7 @@ main{
 footer{
     display: flex;
     justify-content: center;
-    background-color: rgba(236, 240, 11, 0.967);
+    background-color: rgb(145, 147, 13);
 }
 
 .logoFooter{

@@ -6,7 +6,7 @@ body{
 }
 
 header{
-    background-color: rgb(202, 204, 75);
+    background-color: rgb(145, 147, 13);
     padding: 0px;
     margin: 0px;
 }
@@ -53,7 +53,7 @@ main{
     display: flex;
     justify-content: space-evenly;
     max-width: 500px;
-    border-radius: 20px;
+    border-radius: 10px;
     margin: 20px; 
     background-color: rgb(34, 34, 34);  
 }
@@ -66,7 +66,7 @@ main{
     max-height: 280px;
     align-self: center;
     background-color: rgba(104, 104, 104, 0.884);
-    border-radius: 20px; 
+    border-radius: 10px; 
     margin: 15px;
 }
 
@@ -77,36 +77,35 @@ main{
     font-size: 22px;
     color: rgb(125, 8, 8);
     background-color: rgb(34, 34, 34);
-    border-radius: 20px;
+    border-radius: 10px;
 }
 
 .cardText{
     display: flex;
     justify-content: left;
     font-family: fantasy;
-    font-size: 19px;
+    font-size: 18px;
     color: rgb(125, 8, 8);
-    border-radius: 20px;
 }
 
 .allList{
     background-color: rgb(34, 34, 34);
     margin: 10px;
-    border-radius: 20px;
+    border-radius: 10px;
 }
 
 .listInfo{
     color: rgb(125, 8, 8);
     background-color: rgba(166, 166, 32, 0.9);
     font-family: fantasy;
-    border-radius: 20px;
+    border-radius: 10px;
     font-size: 18px;
 }
 
 footer{
     display: flex;
     justify-content: center;
-    background-color: rgba(236, 240, 11, 0.967);
+    background-color: rgb(145, 147, 13);
 }
 
 .logoFooter{
