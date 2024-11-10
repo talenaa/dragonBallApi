@@ -1,22 +1,12 @@
 **Dragon Ball API**
 -
 
+
 **What is this project about?**
 -
 In this project our objective is to make a Dragon Ball API, using just html, css and JavaScript. 
 
 The page must also be responsive, so it can be seen through phones and tablets.
-
-
-**How did I made it**
--
-For this project I used: Html, Css, and JavaSript.
-
-For the styles and cards I just used css and bootstrap.
-
-For the JSON I used Postman.
-
-I also made three html's and three css's, so I could style each one of the pages and cards, I also made two JavaScript for each one of the content (characters and planets).
 
 
 **About the code**
@@ -26,6 +16,7 @@ In the css's I made most part of the classes with flex so it could be responsive
 In JavaScript I created my own classes and removed the bootstrap so I could edit the cards.
 
 In html I have links to guide through the content and images to make it more good looking.
+
 
 **Overview**
 -
@@ -42,6 +33,13 @@ In html I have links to guide through the content and images to make it more goo
 ![Screenshot 2024-11-08 091121](https://github.com/user-attachments/assets/ad30c693-e85a-4e6b-b643-dac067271353)
 
 
+**Contact and project**
+-
+If you want to contact me for more information, here is my email: talenabarbosa7@gmail.com
+
+If you want to take a look at my project, here is the link: https://talenaa.github.io/dragonBallApi/index.html
+
+
 **Tools that I used for this project:**
 -
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/github-100000?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=black&color=black'/></a>
@@ -52,7 +50,9 @@ In html I have links to guide through the content and images to make it more goo
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='postman' src='https://img.shields.io/badge/postman-100000?style=for-the-badge&logo=postman&logoColor=FFAA00&labelColor=FFFDFD&color=FFC000'/></a>
 
 
-
+**Thanks for reading :3**
+-
+Have a good day! :3
 
 
 
