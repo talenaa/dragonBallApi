@@ -8,11 +8,13 @@ In this project our objective is to make a Dragon Ball API, using just html, css
 The page must also be responsive, so it can be seen through phones and tablets.
 
 
-**How did i made it**
+**How did I made it**
 -
 For this project I used: Html, Css, and JavaSript.
 
 For the styles and cards I just used css and bootstrap.
+
+For the JSON I used Postman.
 
 I also made three html's and three css's, so I could style each one of the pages and cards, I also made two JavaScript for each one of the content (characters and planets).
 
@@ -40,7 +42,7 @@ In html I have links to guide through the content and images to make it more goo
 ![Screenshot 2024-11-08 091121](https://github.com/user-attachments/assets/ad30c693-e85a-4e6b-b643-dac067271353)
 
 
-**Tools**
+**Tools that I used for this project:**
 -
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/github-100000?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=black&color=black'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='html5' src='https://img.shields.io/badge/html5-100000?style=for-the-badge&logo=html5&logoColor=E70707&labelColor=FFFFFF&color=F47700'/></a>
