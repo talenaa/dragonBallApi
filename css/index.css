@@ -37,10 +37,6 @@ header{
     max-width: 135px;
 }
 
-main{
-    margin: 10px;
-}
-
 .allItems{
     display: flex;
     justify-content: center;
@@ -78,5 +74,5 @@ footer{
 }
 
 .logoFooter{
-    max-width: 386px;
+    max-width: 380px;
 }
